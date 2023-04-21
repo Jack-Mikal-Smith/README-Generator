@@ -1,7 +1,7 @@
-# jajjaj https://img.shields.io/badge/License--lightgrey
+# k;asjf || ![License Badge image](https://img.shields.io/badge/License-GNU_General_Public_v3.0-lightgrey)
 
   ## Description
-  jajadj;
+  a;lfdjs;;
 
   ## Table of Contents
   1. [Contributors](#contributors)
@@ -11,16 +11,16 @@
   5. [Contact Info](#contact)
 
   ## Contributors
-  jaljd;
+  ljal;sdfjs;
 
   ## Installation
-  jlsf;
+  alkfds;
 
   ## Usage
-  lksl;fj;
+  flkaf;
 
   ## Tests
-  lafd;
+  a;
 
   ## Contact Info
-  ljfa; laf;d;
+  fsdj alkdsfj;

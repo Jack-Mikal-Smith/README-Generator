@@ -18,9 +18,24 @@ const questions = [
     },
     {
         type: 'list',
-        name: 'License',
+        name: 'license',
         message: 'Which License will your application require?',
-        choices: ['', '', '']
+        choices: [
+            'None',
+            'Apache_2.0',
+            'GNU_General_Public_v3.0',
+            'MIT',
+            'BDS_2_Clause',
+            'BDS_3_Clause',
+            'Boost_Software_1.0',
+            'Creative_Commons_Zero_v1.0',
+            'Eclipse_Public_v2.0',
+            'GNU_Alfero_General_Public_v3.0',
+            'GNU_General_Public_v2.0',
+            'GNU_Lesser_General_Public_v2.1',
+            'Mozilla_Public_v2.0',
+            'The_Unlicense'
+        ]
     },
     {
         type: 'input',

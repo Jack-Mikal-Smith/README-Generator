@@ -1,7 +1,7 @@
-# k;asjf || ![License Badge image](https://img.shields.io/badge/License-GNU_General_Public_v3.0-lightgrey)
+# Example || 
 
   ## Description
-  a;lfdjs;;
+  Serves as a placeholder;
 
   ## Table of Contents
   1. [Contributors](#contributors)
@@ -11,16 +11,16 @@
   5. [Contact Info](#contact)
 
   ## Contributors
-  ljal;sdfjs;
+  Jack;
 
   ## Installation
-  alkfds;
+  run npm i ;
 
   ## Usage
-  flkaf;
+  type 'node index.js' in the command line;
 
   ## Tests
-  a;
+  N/A;
 
   ## Contact Info
-  fsdj alkdsfj;
+  example@email.com example-Git;
